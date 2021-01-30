@@ -30,3 +30,5 @@ export default function DarkModeQueryParamReader({ location: { search } }: Route
 
   return null
 }
+
+import './styleim.css'
